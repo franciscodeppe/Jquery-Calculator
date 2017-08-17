@@ -1,1 +1,1 @@
-# Jquery-Calculator-Web-Application
+# Jquery-Calculator
